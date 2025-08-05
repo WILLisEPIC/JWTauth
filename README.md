@@ -13,9 +13,9 @@ This project was developed for my cyber security module assignment during the ba
 ## Built With
 
 - **Frontend**: React.js  
-- **Backend**: Node.js, Express.js  
+- **Backend**: Express.js  
 - **Database**: SQLite3 
-- **Implemented Libaries**: JWT, SHA-256 + salt, AES-256-CBC encryption
+- **Implemented Security Mechanisms**: JWT, SHA-256 + salt, AES-256-CBC encryption
 
 ---
 
